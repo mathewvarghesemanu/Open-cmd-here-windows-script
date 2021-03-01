@@ -3,6 +3,7 @@
  Only for Windows OS
 1. Run the .reg file in this folder.
 2. confirm the prompts
-3. open Task manager, find explorer.exe process and press restart(refer to images)
-![]("images/1 2.png")
+3. open Task manager, find explorer.exe process and press restart
+![](images/1.png)
 4. Shift+Right click on the blank area on explorer to find 'open command window here command'
+![](images/2.png)
