@@ -6,4 +6,4 @@
 3. open Task manager, find explorer.exe process and press restart
 ![](images/1.png)
 4. Shift+Right click on the blank area on explorer to find 'open command window here command'
-![](images/2.png)
+![](images/2.jpg)
